@@ -1,15 +1,19 @@
-siteID,stationID,procID,startDate,endDate,project_filepath,data_path,out_path
-EB,EasterBush,CO2_H2O,01/01/1995 00:00,31/12/2006 23:59,N:/0Peter/curr/ECsystem/eddypro/EB_1995.eddypro,/gws/nopw/j04/eddystore/stations/EasterBush/raw_files,/gws/nopw/j04/eddystore/stations/EasterBush/output
-EB,EasterBush,CO2_H2O,01/01/2007 00:00,31/12/2012 23:59,N:/0Peter/curr/ECsystem/eddypro/EB_2007.eddypro,/gws/nopw/j04/eddystore/stations/EasterBush/raw_files,/gws/nopw/j04/eddystore/stations/EasterBush/output
-EB,EasterBush,CO2_H2O,01/01/2013 00:00,01/01/2020 12:00,N:/0Peter/curr/ECsystem/eddypro/EB_2013.eddypro,/gws/nopw/j04/eddystore/stations/EasterBush/raw_files,/gws/nopw/j04/eddystore/stations/EasterBush/output
-EB,EasterBush,N2O_H2O,01/01/2016 00:00,01/01/2020 12:00,P:/NEC05684_CINAG/Data/Eddy_Covariance_4_years/Easter_Bush_N2O_4years/Eddy_Pro/N2O_EB_2012.eddypro,/gws/nopw/j04/eddystore/stations/EasterBush/raw_files,/gws/nopw/j04/eddystore/stations/EasterBush/output
-AM,Auchencorth,CO2_H2O,01/01/1995 00:00,31/12/2006 23:59,/gws/nopw/j04/eddystore/stations/Auchencorth/proc/processing_1995.eddypro,/gws/nopw/j04/eddystore/stations/Auchencorth/raw_files,/gws/nopw/j04/eddystore/stations/Auchencorth/output
-AM,Auchencorth,CO2_H2O,01/01/2007 00:00,31/12/2012 23:59,/gws/nopw/j04/eddystore/stations/Auchencorth/proc/processing_2007.eddypro,/gws/nopw/j04/eddystore/stations/Auchencorth/raw_files,/gws/nopw/j04/eddystore/stations/Auchencorth/output
-AM,Auchencorth,CO2_H2O,01/01/2013 00:00,01/01/2020 12:00,/gws/nopw/j04/eddystore/stations/Auchencorth/proc/processing_2013.eddypro,/gws/nopw/j04/eddystore/stations/Auchencorth/raw_files,/gws/nopw/j04/eddystore/stations/Auchencorth/output
-WH,Whim,CO2_CH4_H2O,01/01/1995 00:00,31/12/2006 23:59,/gws/nopw/j04/eddystore/stations/Whim/proc/processing_1995.eddypro,/gws/nopw/j04/eddystore/stations/Whim/raw_files,/gws/nopw/j04/eddystore/stations/Whim/output
-WH,Whim,CO2_CH4_H2O,01/01/2007 00:00,31/12/2012 23:59,/gws/nopw/j04/eddystore/stations/Whim/proc/processing_2007.eddypro,/gws/nopw/j04/eddystore/stations/Whim/raw_files,/gws/nopw/j04/eddystore/stations/Whim/output
-WH,Whim,CO2_CH4_H2O,01/01/2013 00:00,01/01/2020 12:00,/gws/nopw/j04/eddystore/stations/Whim/proc/processing_2013.eddypro,/gws/nopw/j04/eddystore/stations/Whim/raw_files,/gws/nopw/j04/eddystore/stations/Whim/output
-EB_jasmin,EasterBush_jasmin,CO2_H2O,01/01/1995 00:00,31/12/2006 23:59,/gws/nopw/j04/eddystore/stations/EasterBush/projects/EB_1995.eddypro,/gws/nopw/j04/eddystore/stations/EasterBush_jasmin/raw_files,/gws/nopw/j04/eddystore/stations/EasterBush_jasmin/output
-EB_jasmin,EasterBush_jasmin,CO2_H2O,01/01/2007 00:00,31/12/2012 23:59,/gws/nopw/j04/eddystore/stations/EasterBush/projects/EB_2007.eddypro,/gws/nopw/j04/eddystore/stations/EasterBush_jasmin/raw_files,/gws/nopw/j04/eddystore/stations/EasterBush_jasmin/output
-EB_jasmin,EasterBush_jasmin,CO2_H2O,01/01/2013 00:00,01/01/2020 12:00,/gws/nopw/j04/eddystore/stations/EasterBush/projects/EB_2013.eddypro,/gws/nopw/j04/eddystore/stations/EasterBush_jasmin/raw_files,/gws/nopw/j04/eddystore/stations/EasterBush_jasmin/output
-EB_jasmin,EasterBush_jasmin,N2O_H2O,01/01/2016 00:00,01/01/2020 12:00,/gws/nopw/j04/eddystore/stations/EB_n2o/projects/N2O_EB_2012.eddypro,/gws/nopw/j04/eddystore/stations/EasterBush_jasmin/raw_files,/gws/nopw/j04/eddystore/stations/EasterBush_jasmin/output
+siteID,stationID,procID,startDate,endDate,project_filepath
+EB,EasterBush,CO2_H2O,01/01/1995 00:00,31/12/2006 23:59,N:/0Peter/curr/ECsystem/eddypro/EB_1995.eddypro
+EB,EasterBush,CO2_H2O,01/01/2007 00:00,31/12/2012 23:59,N:/0Peter/curr/ECsystem/eddypro/EB_2007.eddypro
+EB,EasterBush,CO2_H2O,01/01/2013 00:00,01/01/2020 12:00,N:/0Peter/curr/ECsystem/eddypro/EB_2013.eddypro
+EB,EB_n2o,N2O_H2O,01/01/2016 00:00,01/01/2020 12:00,/gws/nopw/j04/eddystore/stations/EB_n2o/projects/N2O_EB_2012.eddypro
+EB,EB_n2o,N2O_H2O,01/01/2016 00:00,01/01/2020 12:00,/gws/nopw/j04/eddystore/stations/EB_n2o/projects/N2O_EB_2012.eddypro
+EB,EB_n2o,N2O_H2O,01/01/2016 00:00,01/01/2020 12:00,/gws/nopw/j04/eddystore/stations/EB_n2o/projects/N2O_EB_2012.eddypro
+EB,EB_n2o,N2O_H2O,01/01/2016 00:00,01/01/2020 12:00,/gws/nopw/j04/eddystore/stations/EB_n2o/projects/N2O_EB_2012.eddypro
+AM,Auchencorth,CO2_H2O,01/01/1995 00:00,31/12/2006 23:59,/gws/nopw/j04/eddystore/stations/Auchencorth/proc/processing_1995.eddypro
+AM,Auchencorth,CO2_H2O,01/01/2007 00:00,31/12/2012 23:59,/gws/nopw/j04/eddystore/stations/Auchencorth/proc/processing_2007.eddypro
+AM,Auchencorth,CO2_H2O,01/01/2013 00:00,01/01/2020 12:00,/gws/nopw/j04/eddystore/stations/Auchencorth/proc/processing_2013.eddypro
+WH,Whim,CO2_CH4_H2O,01/01/1995 00:00,31/12/2006 23:59,/gws/nopw/j04/eddystore/stations/Whim/proc/processing_1995.eddypro
+WH,Whim,CO2_CH4_H2O,01/01/2007 00:00,31/12/2012 23:59,/gws/nopw/j04/eddystore/stations/Whim/proc/processing_2007.eddypro
+WH,Whim,CO2_CH4_H2O,01/01/2013 00:00,01/01/2020 12:00,/gws/nopw/j04/eddystore/stations/Whim/proc/processing_2013.eddypro
+EB_jasmin,EasterBush_jasmin,CO2_H2O,01/01/1995 00:00,31/12/2006 23:59,/gws/nopw/j04/eddystore/stations/EasterBush/projects/EB_1995.eddypro
+EB_jasmin,EasterBush_jasmin,CO2_H2O,01/01/2007 00:00,31/12/2012 23:59,/gws/nopw/j04/eddystore/stations/EasterBush/projects/EB_2007.eddypro
+EB_jasmin,EasterBush_jasmin,CO2_H2O,01/01/2013 00:00,01/01/2020 12:00,/gws/nopw/j04/eddystore/stations/EasterBush/projects/EB_2013.eddypro
+EB_jasmin,EasterBush_jasmin,N2O_H2O,01/01/2016 00:00,01/01/2020 12:00,/gws/nopw/j04/eddystore/stations/EB_n2o/projects/N2O_EB_2012.eddypro
+Balmoral,Balmoral,CO2_H2O,03/07/2018 00:00,31/01/2019 12:00,/gws/nopw/j04/eddystore/stations/Balmoral/projects/Balmoral.eddypro
